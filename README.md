@@ -7,9 +7,9 @@ I'm an experienced front end developer with a keen interest in designing, develo
 - 🍬 Candy Crush!
 
 Notable projects: 
-- Vue-based form builder
-- Angular-based property management dashboard
-- Vue-based datepicker
+- Vue-based form builder -> surveyapp
+- Angular-based property management dashboard -> angular-property-management
+- Vue-based datepicker -> vue-datepicker
 
 📬Connect with Me📬
 - LinkedIn: https://www.linkedin.com/in/argi-k-candri-28976b114/
