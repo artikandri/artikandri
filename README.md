@@ -1,9 +1,9 @@
 
 👋Hi, I'm Argi!
 I'm an experienced front end developer with a keen interest in designing, developing, and building web applications. In addition to that, I'm also interested in Machine Learning, having written my thesis on the Multi-Task Learning (MTL) theme. Outside of work, I enjoy... 
-📚 Reading
-✍️📝Writing
-🍬 Candy Crush!
+- 📚 Reading
+- ✍️📝Writing
+- 🍬 Candy Crush!
 
 Notable projects: 
 - Vue-based form builder
