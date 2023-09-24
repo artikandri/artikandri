@@ -13,4 +13,4 @@ Notable projects:
 
 📬Connect with Me📬
 - LinkedIn: https://www.linkedin.com/in/argi-k-candri-28976b114/
-- ![image](https://www.codewars.com/users/argikartika/badges/small)
+- ![image](https://www.codewars.com/users/artikandri/badges/small)
