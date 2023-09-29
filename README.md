@@ -9,7 +9,7 @@ I'm an experienced front end developer with a keen interest in designing, develo
 Notable projects: 
 - Vue-based form builder -> surveyapp
 - Angular-based property management dashboard -> angular-property-management
-- Vue-based datepicker -> vue-datepicker
+- React-based landing page -> react-startupz
 
 📬Connect with Me📬
 - LinkedIn: https://www.linkedin.com/in/argi-k-candri-28976b114/
