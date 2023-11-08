@@ -7,7 +7,7 @@ I'm an experienced front end developer with a keen interest in designing, develo
 - 🍬 Candy Crush!
 
 Notable projects: 
-- Vue-based form builder -> surveyapp
+- Vue-based projects -> surveyapp (form builder), klumo (search box), argilla (open source text annotation tools)
 - Angular-based property management dashboard -> angular-property-management
 - React-based landing page -> react-startupz
 
